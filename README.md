@@ -52,25 +52,7 @@ This repository contains my solutions to the **ACM Quant Team Induction** tasks.
    git clone https://github.com/yourusername/acm-quant-inductions.git
    cd acm-quant-inductions
 Install required libraries:
-
-bash
-Copy
-Edit
 pip install pandas numpy matplotlib yfinance
-Run any script using:
-
-bash
-Copy
-Edit
-python Q1_SMA_Crossover.py
-📌 Note
-Each solution is:
-
-Written in Python.
-
-Well-commented and structured.
-
-Focused on clarity and explainability.
 
 Tested on Python 3.12.
 
