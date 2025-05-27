@@ -12,7 +12,7 @@ This repository contains my solutions to the **ACM Quant Team Induction** tasks.
 - Implemented logic to generate **Buy** and **Sell** signals based on SMA crossover.
 - Plotted the **Close price**, **SMA lines**, and clearly marked **Buy/Sell** signals using matplotlib.
 
-➡️ [See Code »](./Q1_SMA_Crossover.py)
+➡️ [See Code »](./SMA.ipynb)
 
 ---
 
@@ -24,7 +24,7 @@ This repository contains my solutions to the **ACM Quant Team Induction** tasks.
 - Displayed the **latest portfolio value**.
 - Handled edge cases like missing data.
 
-➡️ [See Code »](./Q3_Portfolio_Tracker.py)
+➡️ [See Code »](./Portfolio.ipynb)
 
 ---
 
@@ -35,7 +35,7 @@ This repository contains my solutions to the **ACM Quant Team Induction** tasks.
 - Visualized results in a **bar chart**.
 - Bonus: Exported the results to a `CSV` file.
 
-➡️ [See Code »](./Q4_Gainers_Losers_Scanner.py)
+➡️ [See Code »](./Gainer_Losers.ipynb)
 
 ---
 
